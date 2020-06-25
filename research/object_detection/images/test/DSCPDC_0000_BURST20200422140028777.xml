@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Billeder af kort - under 200KB</folder>
+	<filename>DSCPDC_0000_BURST20200422140028777.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\DSCPDC_0000_BURST20200422140028777.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>112</ymin>
+			<xmax>378</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>
